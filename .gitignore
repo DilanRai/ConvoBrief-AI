@@ -1,0 +1,7 @@
+node_modules/
+.next/
+.data/
+.datadiagnostic/
+.env
+.env.local
+*.tsbuildinfo
